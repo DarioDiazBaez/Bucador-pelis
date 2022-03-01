@@ -1,0 +1,12 @@
+// colores
+
+$color1: #ea5f44;
+$color2: #e4a615;
+$color3: #c6de6e;
+// varibles bootstrap
+
+$primary: $color1;
+$secondary: $color2;
+$success: $color3;
+
+@import "../bootstrap/scss/bootstrap";

@@ -1,0 +1,2 @@
+*{margin:0;padding:0}#sidebar{background:#151719;height:100%;left:-200px;position:fixed;transition:all .3s linear;width:200px;z-index:1080}#sidebar.active{left:-32px}#sidebar ul li{border-bottom:1px solid hsla(0,0%,39%,.3);color:hsla(0,0%,90%,.9);list-style:none;padding:15px 10px;text-align:center}#sidebar ul li a{color:hsla(0,0%,90%,.9);text-decoration:none}.logo{border-radius:50%;display:block;margin:0 auto;width:100px}#sidebar .toggle-btn{cursor:pointer;left:216px;position:absolute;top:86px}
+/*# sourceMappingURL=main.00fd0144.css.map*/
